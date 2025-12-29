@@ -4,7 +4,7 @@ on:
     inputs:
       DEVICES_NAME:
         description: "📝请选择要编译的机型："
-        required: true
+        required: vivoX80
         type: choice
         options:
           - 'oneplus_13'
